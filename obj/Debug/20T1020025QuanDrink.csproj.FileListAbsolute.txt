@@ -1,0 +1,13 @@
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\bin\Debug\20T1020025QuanDrink.exe.config
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\bin\Debug\20T1020025QuanDrink.exe
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\bin\Debug\20T1020025QuanDrink.pdb
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\20T1020025QuanDrink.csproj.AssemblyReference.cache
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\_20T1020025QuanDrink.FormLogin.resources
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\_20T1020025QuanDrink.Properties.Resources.resources
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\20T1020025QuanDrink.csproj.GenerateResource.cache
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\20T1020025QuanDrink.csproj.CoreCompileInputs.cache
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\20T1020025QuanDrink.exe
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\20T1020025QuanDrink.pdb
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\_20T1020025QuanDrink.FormQLTable.resources
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\_20T1020025QuanDrink.FormAccountProfile.resources
+D:\DH\.net framework\20T1020025\20T1020025QuanDrink\obj\Debug\_20T1020025QuanDrink.FormAdmin.resources
